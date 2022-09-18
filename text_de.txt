@@ -1,0 +1,12 @@
+{
+	"items": [
+	{
+		"key": "key1",
+		"value": " Erste Prüfung auf Deutsch"
+	},
+	{
+		"key": "key2",
+		"value": "Zweite Prüfung auf Deutsch"
+	}
+	]
+}
